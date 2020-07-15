@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=void\ primeFactors(int)
+comment1.params=word
+comment1.target=void\ palindrome(java.lang.String)
+comment2.params=
+comment2.target=void\ Main4()
+numComments=3
